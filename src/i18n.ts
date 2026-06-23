@@ -14,7 +14,7 @@ const en: Dict = {
   "about.w1": "ABOUT",
   "about.w2": "ME",
   "about.body":
-    "I'm a junior developer and systems analyst based in Brasília. Since 2024 I've worked at Pronto Saúde Digital on full-stack development, automation and AI integration. I'm studying Systems Analysis & Development at IESB (2026), driven by technical curiosity — always testing new tools and shipping my own projects. I like solving problems end to end: from a type-safe architecture to automating the repetitive with AI.",
+    "I'm a junior developer and systems analyst based in Brasília. Since 2024 I've worked at Pronto Saúde Digital on full-stack development, automation and AI integration. I graduated in Systems Analysis & Development from IESB (2025), driven by technical curiosity — always testing new tools and shipping my own projects. I like solving problems end to end: from a type-safe architecture to automating the repetitive with AI.",
   "cap1.k": "01",
   "cap1": "Brasília, Brazil",
   "cap2.k": "02",
@@ -26,7 +26,7 @@ const en: Dict = {
   "fct.since.k": "Since",
   "fct.since": "2024 · Pronto Saúde Digital",
   "fct.edu.k": "Education",
-  "fct.edu": "Systems Analysis · IESB · 2026",
+  "fct.edu": "Systems Analysis · IESB · 2025",
   "do.label": "// what i do",
   "do.statement":
     "I build <span class='red'>type-safe full-stack applications</span> and automate the repetitive with AI — from architecture to deploy. Modern, accessible interfaces backed by solid engineering. Here is some of <span class='red'>what I've shipped so far.</span>",
@@ -74,7 +74,7 @@ const ja: Dict = {
   "about.w1": "私に",
   "about.w2": "ついて",
   "about.body":
-    "ブラジリアを拠点とするジュニア開発者兼システムアナリストです。2024年よりプロント・サウージ・デジタルで、フルスタック開発・自動化・AI連携を担当。IESB でシステム分析・開発を専攻（2026年卒業予定）。技術的好奇心が原動力で、常に新しいツールを試し、自分のプロジェクトを世に出しています。型安全な設計から AI による自動化まで、課題を最初から最後まで解決するのが好きです。",
+    "ブラジリアを拠点とするジュニア開発者兼システムアナリストです。2024年よりプロント・サウージ・デジタルで、フルスタック開発・自動化・AI連携を担当。IESB でシステム分析・開発を専攻（2025年卒業）。技術的好奇心が原動力で、常に新しいツールを試し、自分のプロジェクトを世に出しています。型安全な設計から AI による自動化まで、課題を最初から最後まで解決するのが好きです。",
   "cap1.k": "01",
   "cap1": "ブラジリア、ブラジル",
   "cap2.k": "02",
@@ -86,7 +86,7 @@ const ja: Dict = {
   "fct.since.k": "在籍",
   "fct.since": "2024 · Pronto Saúde Digital",
   "fct.edu.k": "学歴",
-  "fct.edu": "システム分析 · IESB · 2026",
+  "fct.edu": "システム分析 · IESB · 2025",
   "do.label": "// できること",
   "do.statement":
     "<span class='red'>型安全なフルスタックアプリ</span>を構築し、繰り返し作業を AI で自動化 — 設計からデプロイまで。堅実なエンジニアリングに支えられた、モダンでアクセシブルな UI。<span class='red'>これまでに世に出したものの一部です。</span>",
