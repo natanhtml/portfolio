@@ -57,6 +57,7 @@ const en: Dict = {
   "contact.sub":
     "Open to projects, collaborations and a good technical conversation. Pick whatever's easiest.",
   "contact.email": "Email me",
+  "contact.cv": "Download CV",
   "f.menu": "Menu",
   "f.social": "Social",
   "f.note": "Made with care in Brasília.",
@@ -116,6 +117,7 @@ const ja: Dict = {
   "contact.sub":
     "プロジェクト、コラボ、良い技術的な会話を歓迎します。お好きな方法でどうぞ。",
   "contact.email": "メールする",
+  "contact.cv": "履歴書をダウンロード",
   "f.menu": "メニュー",
   "f.social": "ソーシャル",
   "f.note": "ブラジリアで、丁寧に作りました。",
